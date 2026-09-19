@@ -49,6 +49,13 @@ It resolves common Windows issues such as false "No Internet Access" alerts (glo
 
 ---
 
+## 💻 System Requirements
+
+- **OS:** Windows 7, Windows 8.1, Windows 10, or Windows 11.
+- **Permissions:** Administrator access (handled automatically by the batch script).
+
+---
+
 ## ⚖️ Absolute Legal Disclaimer, Waiver & Limitation of Liability
 
 This project is licensed under the **Apache License, Version 2.0**. This disclaimer expressly supplements, expands, and reinforces **Section 7 (Disclaimer of Warranty)** and **Section 8 (Limitation of Liability)** of the Apache License 2.0, and shall control to the maximum extent permitted by applicable law.
@@ -77,9 +84,3 @@ If any provision of this disclaimer is held to be unenforceable or invalid under
 
 ### 6. No Waiver of Non-Waivable Rights
 Nothing in this disclaimer is intended to exclude or limit any liability that cannot be excluded or limited under applicable mandatory law (including liability for death or personal injury caused by negligence in jurisdictions where such exclusion is prohibited). In such cases, liability is limited to the maximum extent permitted by law.
----
-
-## 💻 System Requirements
-
-- **OS:** Windows 7, Windows 8.1, Windows 10, or Windows 11.
-- **Permissions:** Administrator access (handled automatically by the batch script).
